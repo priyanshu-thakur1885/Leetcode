@@ -186,3 +186,27 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 <p align="center">
   <b>Keep Solving. Keep Learning. Keep Improving. 🚀</b>
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
+## K Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
+<!---LeetCode Topics End-->
