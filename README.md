@@ -196,15 +196,18 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 ## K Shortest Path
 | Problem Name | Difficulty |
@@ -234,4 +237,16 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+## Bellman–Ford Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+## Floyd–Warshall Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 <!---LeetCode Topics End-->
