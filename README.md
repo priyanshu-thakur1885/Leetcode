@@ -196,6 +196,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -209,4 +210,28 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
