@@ -218,6 +218,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
@@ -244,6 +245,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
@@ -268,10 +270,12 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
