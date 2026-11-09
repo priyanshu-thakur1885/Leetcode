@@ -219,6 +219,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0134-gas-station](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0455-assign-cookies/) | Easy |
@@ -274,6 +275,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0134-gas-station](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0455-assign-cookies/) | Easy |
