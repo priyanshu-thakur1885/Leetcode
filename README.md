@@ -317,4 +317,8 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1907-count-salary-categories](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1907-count-salary-categories/) | Medium |
 <!---LeetCode Topics End-->
