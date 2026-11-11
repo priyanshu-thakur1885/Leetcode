@@ -320,5 +320,6 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1164-product-price-at-a-given-date](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1907-count-salary-categories](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1907-count-salary-categories/) | Medium |
 <!---LeetCode Topics End-->
