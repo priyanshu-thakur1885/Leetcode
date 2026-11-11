@@ -322,6 +322,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0610-triangle-judgement](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0610-triangle-judgement/) | Easy |
+| [0619-biggest-single-number](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1907-count-salary-categories](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1907-count-salary-categories/) | Medium |
