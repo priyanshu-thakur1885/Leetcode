@@ -327,6 +327,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0610-triangle-judgement](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
+| [0626-exchange-seats](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1321-restaurant-growth](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
