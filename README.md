@@ -227,6 +227,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0948-bag-of-tokens](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [1710-maximum-units-on-a-truck](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3693-climbing-stairs-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Union-Find
@@ -286,6 +287,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0948-bag-of-tokens](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,6 +296,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0948-bag-of-tokens](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
