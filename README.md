@@ -218,6 +218,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0045-jump-game-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0134-gas-station](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
@@ -277,6 +278,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0455-assign-cookies](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0948-bag-of-tokens](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 ## Greedy
