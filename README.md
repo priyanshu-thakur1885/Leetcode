@@ -234,6 +234,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0485-max-consecutive-ones](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0948-bag-of-tokens](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -273,6 +274,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0435-non-overlapping-intervals](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
@@ -387,6 +389,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -403,5 +406,6 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
