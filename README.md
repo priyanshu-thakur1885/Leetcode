@@ -225,6 +225,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0119-pascals-triangle-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0164-maximum-gap](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0164-maximum-gap/) | Medium |
@@ -249,6 +250,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -417,6 +419,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
