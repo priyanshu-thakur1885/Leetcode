@@ -398,16 +398,19 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0165-compare-version-numbers](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0166-fraction-to-recurring-decimal](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
