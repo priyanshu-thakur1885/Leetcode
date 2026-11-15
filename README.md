@@ -276,6 +276,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0397-integer-replacement](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -402,6 +403,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0043-multiply-strings](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -460,4 +462,12 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0195-tenth-line](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0195-tenth-line/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 <!---LeetCode Topics End-->
