@@ -267,6 +267,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -389,6 +390,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -408,4 +410,16 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | ------- | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
