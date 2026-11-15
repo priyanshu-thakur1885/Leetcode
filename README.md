@@ -301,6 +301,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0165-compare-version-numbers](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0455-assign-cookies](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0948-bag-of-tokens](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 ## Greedy
@@ -402,6 +403,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0165-compare-version-numbers](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
