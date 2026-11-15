@@ -222,6 +222,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0045-jump-game-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0134-gas-station/) | Medium |
@@ -268,6 +269,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0045-jump-game-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
