@@ -220,6 +220,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | ------- | ------- |
 | [0001-two-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0045-jump-game-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -455,6 +456,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0704-binary-search](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Binary Tree
