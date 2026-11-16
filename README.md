@@ -237,6 +237,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0164-maximum-gap](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0217-contains-duplicate](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0376-wiggle-subsequence](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -367,6 +368,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -450,6 +452,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Tree
@@ -464,6 +467,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0035-search-insert-position](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0278-first-bad-version](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0278-first-bad-version/) | Easy |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0704-binary-search](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Binary Tree
@@ -515,6 +519,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0867-transpose-matrix](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Interactive
