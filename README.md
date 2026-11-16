@@ -349,6 +349,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -417,6 +418,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0043-multiply-strings](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0165-compare-version-numbers](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
