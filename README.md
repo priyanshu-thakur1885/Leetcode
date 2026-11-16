@@ -461,6 +461,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0278-first-bad-version](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Binary Tree
@@ -514,4 +515,8 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0073-set-matrix-zeroes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0867-transpose-matrix](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
