@@ -296,6 +296,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0397-integer-replacement](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0576-out-of-boundary-paths/) | Medium |
+| [0650-2-keys-keyboard](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -429,6 +430,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0096-unique-binary-search-trees](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
+| [0650-2-keys-keyboard](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
