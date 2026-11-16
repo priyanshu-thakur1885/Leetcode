@@ -240,6 +240,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0867-transpose-matrix](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0948-bag-of-tokens](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -354,6 +355,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0867-transpose-matrix](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Ordered Set
@@ -501,4 +503,5 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0867-transpose-matrix](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
