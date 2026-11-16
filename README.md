@@ -222,6 +222,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0045-jump-game-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -308,6 +309,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0165-compare-version-numbers](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0455-assign-cookies](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0948-bag-of-tokens](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
@@ -327,6 +329,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0164-maximum-gap](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0217-contains-duplicate](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0406-queue-reconstruction-by-height](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
@@ -339,6 +342,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0455-assign-cookies](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -484,4 +488,8 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
