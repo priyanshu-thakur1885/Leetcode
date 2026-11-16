@@ -247,6 +247,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [1584-min-cost-to-connect-all-points](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -504,4 +505,5 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0048-rotate-image](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0867-transpose-matrix](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 <!---LeetCode Topics End-->
