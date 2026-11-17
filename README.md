@@ -450,6 +450,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0166-fraction-to-recurring-decimal](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0242-valid-anagram](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
@@ -462,6 +463,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0166-fraction-to-recurring-decimal](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0217-contains-duplicate](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -528,6 +530,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 ## Bubble Sort
