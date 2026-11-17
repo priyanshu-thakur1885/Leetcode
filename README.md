@@ -349,6 +349,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0075-sort-colors](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0164-maximum-gap](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0217-contains-duplicate](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0406-queue-reconstruction-by-height](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -447,6 +448,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0125-valid-palindrome](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0165-compare-version-numbers](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0242-valid-anagram](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -459,6 +461,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0128-longest-consecutive-sequence](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0217-contains-duplicate](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
