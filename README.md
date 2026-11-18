@@ -261,6 +261,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
+| [3719-longest-balanced-subarray-i](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,6 +396,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | ------- | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+| [3719-longest-balanced-subarray-i](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -480,17 +482,20 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0383-ransom-note](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
+| [3719-longest-balanced-subarray-i](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [3719-longest-balanced-subarray-i](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3719-longest-balanced-subarray-i](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
