@@ -456,6 +456,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
