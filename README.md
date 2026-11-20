@@ -257,6 +257,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [1710-maximum-units-on-a-truck](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -305,6 +306,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
@@ -366,6 +368,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0948-bag-of-tokens](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
