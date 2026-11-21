@@ -336,6 +336,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0151-reverse-words-in-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0344-reverse-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -472,6 +473,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0344-reverse-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0443-string-compression](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
