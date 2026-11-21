@@ -259,6 +259,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
@@ -320,6 +321,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1462-course-schedule-iv](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1462-course-schedule-iv/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -475,6 +477,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [2243-calculate-digit-sum-of-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -486,6 +489,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0242-valid-anagram](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Divide and Conquer
@@ -505,6 +509,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
