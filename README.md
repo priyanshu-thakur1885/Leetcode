@@ -437,6 +437,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Stack
@@ -475,6 +476,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0344-reverse-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -494,6 +496,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0242-valid-anagram](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
