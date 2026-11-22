@@ -480,6 +480,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0443-string-compression](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
