@@ -236,6 +236,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0134-gas-station](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0164-maximum-gap](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0164-maximum-gap/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
@@ -437,6 +438,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -510,6 +512,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -526,6 +529,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0704-binary-search](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0704-binary-search/) | Easy |
