@@ -391,6 +391,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0867-transpose-matrix](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -464,6 +465,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0375-guess-number-higher-or-lower-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [3360-stone-removal-game](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## String
 | Problem Name | Difficulty |
