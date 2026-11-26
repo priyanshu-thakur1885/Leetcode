@@ -9,6 +9,6 @@ class Solution {
                 return num;
             }
         }
-        return -1;
+        return 1;
     }
 }
