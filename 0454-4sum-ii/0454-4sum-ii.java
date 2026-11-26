@@ -1,24 +1,45 @@
 class Solution {
-    public int fourSumCount(int[] nums1, int[] nums2, int[] nums3, int[] nums4) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        int count = 0;
+    public int fourSumCount(
+            int[] a,
+            int[] b,
+            int[] c,
+            int[] d
+    ) {
+        final int capacity = 1 << 16;
+        final int mask = capacity - 1;
 
-        // Store frequencies of all sums from nums1 and nums2
-        for (int i = 0; i < nums1.length; i++) {
-            for (int j = 0; j < nums2.length; j++) {
-                int sum = nums1[i] + nums2[j];
-                map.put(sum, map.getOrDefault(sum, 0) + 1);
+        int[] keys = new int[capacity];
+        int[] freq = new int[capacity];
+
+        for (int x : a) {
+            for (int y : b) {
+                int key = x + y;
+                int slot = key & mask;
+
+                while (freq[slot] != 0 && keys[slot] != key) {
+                    slot = (slot + 1) & mask;
+                }
+
+                keys[slot] = key;
+                freq[slot]++;
             }
         }
 
-        // Find complementary sums from nums3 and nums4
-        for (int i = 0; i < nums3.length; i++) {
-            for (int j = 0; j < nums4.length; j++) {
-                int sum = nums3[i] + nums4[j];
-                count += map.getOrDefault(-sum, 0);
+        int answer = 0;
+
+        for (int x : c) {
+            for (int y : d) {
+                int key = -(x + y);
+                int slot = key & mask;
+
+                while (freq[slot] != 0 && keys[slot] != key) {
+                    slot = (slot + 1) & mask;
+                }
+
+                answer += freq[slot];
             }
         }
 
-        return count;
+        return answer;
     }
 }
