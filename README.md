@@ -236,6 +236,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0134-gas-station](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0164-maximum-gap](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0164-maximum-gap/) | Medium |
+| [0169-majority-element](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -364,6 +365,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0164-maximum-gap](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0164-maximum-gap/) | Medium |
+| [0169-majority-element](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0406-queue-reconstruction-by-height](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
@@ -500,6 +502,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0073-set-matrix-zeroes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0169-majority-element](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0383-ransom-note/) | Easy |
@@ -512,6 +515,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Prefix Sum
@@ -578,6 +582,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
@@ -626,4 +631,8 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
