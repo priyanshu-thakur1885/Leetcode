@@ -245,6 +245,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0406-queue-reconstruction-by-height](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0454-4sum-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0498-diagonal-traverse](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
@@ -508,6 +509,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0383-ransom-note](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0454-4sum-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0454-4sum-ii/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
