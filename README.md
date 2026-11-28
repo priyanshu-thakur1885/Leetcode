@@ -248,6 +248,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0454-4sum-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0494-target-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0498-diagonal-traverse](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0704-binary-search](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -307,6 +308,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0376-wiggle-subsequence](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0397-integer-replacement](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0494-target-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -650,4 +652,16 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0494-target-sum/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0494-target-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
