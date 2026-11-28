@@ -351,6 +351,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0455-assign-cookies](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0948-bag-of-tokens](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Greedy
@@ -687,5 +688,6 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 <!---LeetCode Topics End-->
