@@ -270,6 +270,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [3693-climbing-stairs-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -364,6 +365,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [1710-maximum-units-on-a-truck](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -380,6 +382,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [1710-maximum-units-on-a-truck](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -389,6 +392,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
