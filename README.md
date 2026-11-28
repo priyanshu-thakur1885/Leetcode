@@ -249,6 +249,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0455-assign-cookies](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0493-reverse-pairs](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0498-diagonal-traverse](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0704-binary-search](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -411,15 +412,18 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
+| [0493-reverse-pairs](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [0493-reverse-pairs](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [0493-reverse-pairs](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3719-longest-balanced-subarray-i](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Database
@@ -534,6 +538,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0493-reverse-pairs](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Prefix Sum
@@ -559,6 +564,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
+| [0493-reverse-pairs](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Binary Tree
@@ -669,4 +675,12 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0494-target-sum/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
