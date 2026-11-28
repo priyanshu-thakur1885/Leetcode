@@ -376,6 +376,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0242-valid-anagram](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0406-queue-reconstruction-by-height](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0948-bag-of-tokens](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
@@ -391,6 +392,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Simulation
@@ -495,6 +497,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0443-string-compression/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
@@ -516,6 +519,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0383-ransom-note](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0454-4sum-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0454-4sum-ii/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
@@ -568,6 +572,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0164-maximum-gap/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -594,6 +599,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0169-majority-element](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
