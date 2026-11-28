@@ -478,6 +478,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0096-unique-binary-search-trees](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
+| [0492-construct-the-rectangle](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0650-2-keys-keyboard](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3360-stone-removal-game](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
