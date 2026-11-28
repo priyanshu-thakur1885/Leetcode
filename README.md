@@ -248,6 +248,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0454-4sum-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0498-diagonal-traverse](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0704-binary-search](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -523,6 +524,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0454-4sum-ii](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0454-4sum-ii/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
@@ -566,6 +568,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0397-integer-replacement](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0397-integer-replacement/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -655,6 +658,7 @@ Reaching 400+ solved problems is an important milestone in my DSA journey, but i
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/priyanshu-thakur1885/Leetcode/tree/main/0494-target-sum/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
